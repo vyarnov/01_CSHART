@@ -17,3 +17,4 @@ double product3 = d1 * i2;
 Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
+Console.WriteLine("Привет Андрей");
