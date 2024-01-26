@@ -24,3 +24,11 @@ Console.WriteLine(quotient);
 double d3 = 6.2;
 double quotient2 = i1 / d3;
 Console.WriteLine(quotient2);
+
+//home work
+double ha = 3;
+double hb = 5;
+double hc = 7;
+double hd = 9;
+double resualt_hw = (ha * hb) / (hc + hd);
+Console.WriteLine(resualt_hw);
