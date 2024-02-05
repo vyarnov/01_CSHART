@@ -1,4 +1,0 @@
-C:\Users\User\Desktop\GB\C#\01_CSHART\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Desktop\GB\C#\01_CSHART\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
-C:\Users\User\Desktop\GB\C#\01_CSHART\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
-C:\Users\User\Desktop\GB\C#\01_CSHART\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
