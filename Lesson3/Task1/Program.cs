@@ -8,14 +8,12 @@
 
 
 
-int CalculateFormula(int a, int b)
+double CalculateFormula(int a, int b, int c, int d)
 {
     int numenator = a * b;
-    // int denumenator = c + d;
-    // double result = numenator / denumenator;
-    return numenator;
+    double denumenator = c + d;
+    double result = numenator / denumenator;
+    return result;
 }
 
-int numenator = 0;
-CalculateFormula(1,2);
-Console.Write(numenator);
+Console.WriteLine(CalculateFormula(1,2,3,4));
